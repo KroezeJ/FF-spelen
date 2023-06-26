@@ -1,0 +1,30 @@
+.button-33 {
+    background-color: #00719c;
+    border-radius: 100px;
+    box-shadow: #00415a55 0 -25px 18px -14px inset,#00415a55 0 1px 2px,#00415a55 0 2px 4px,#00415a55 0 4px 8px,#00415a55 0 8px 16px,#00415a55 0 16px 32px;
+    color: white;
+    cursor: pointer;
+    display: inline-block;
+    font-family: CerebriSans-Regular,-apple-system,system-ui,Roboto,sans-serif;
+    padding: 7px 20px;
+    text-align: center;
+    text-decoration: none;
+    transition: all 250ms;
+    border: 0;
+    font-size: 16px;
+    user-select: none;
+    -webkit-user-select: none;
+    touch-action: manipulation;
+  }
+  
+  .button-33:hover {
+    box-shadow: #00415a55 0 -25px 18px -14px inset,#00415a55 0 1px 2px,#00415a55 0 2px 4px,#00415a55 0 4px 8px,#00415a55 0 8px 16px,#00415a55 0 16px 32px;
+    transform: scale(1.05) rotate(-1deg);
+    text-decoration: none;
+    color: #00b8ff;
+  }
+
+  .button-33 a {
+    color: white;
+    text-decoration: none;
+  }
